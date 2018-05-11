@@ -1,6 +1,5 @@
 var playlist = {
   Tool: "Sober",
-  Slipknot: "Psycosocial",
   
 }
 
